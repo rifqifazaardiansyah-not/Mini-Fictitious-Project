@@ -17,9 +17,9 @@ Berisi data fiktif penjualan harian, termasuk tanggal, nama produk, harga satuan
 1. Clone repository ini
 2. Jalankan perintah berikut di terminal admin:
 
-	1. cd "[letak folder yang berisi file-file yang sudah kamu unduh dari repositori]" (misal: cd "E:\mini 		   project data analyst(fiktif)")
-	2. pip install -r requirements.txt (jika tidak bisa install manual satu persatu tool yang dibutuhkan)
-	3. streamlit run app.py
+	1. cd "[letak folder yang berisi file-file yang sudah kamu clone dari repositori]" , misal: cd "E:\mini project data analyst (fiktif)"
+	2. pip install -r requirements.txt (jika tidak bisa, install manual satu persatu tool yang dibutuhkan di command prompt (administrator))
+	3. streamlit run app.py 
 
 ## 🧪 Teknologi
 - Python
