@@ -29,4 +29,3 @@ Berisi data fiktif penjualan harian, termasuk tanggal, nama produk, harga satuan
 
 ## 💡 Catatan
 Project ini bersifat pembelajaran dan data sepenuhnya fiktif.
-

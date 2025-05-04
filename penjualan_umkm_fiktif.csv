@@ -1,0 +1,101 @@
+Tanggal,Produk,Kategori,Jumlah Terjual,Harga Satuan,Total,Kota
+2025-04-08,Teh Tarik,Minuman,4,12000,48000,Surabaya
+2025-04-02,Kopi Hitam,Minuman,1,13000,13000,Jakarta
+2025-04-10,Susu Almond,Minuman,6,18000,108000,Jakarta
+2025-04-26,Roti Tawar,Makanan,6,7000,42000,Medan
+2025-04-08,Brownies,Makanan,3,20000,60000,Medan
+2025-04-22,Susu Almond,Minuman,5,18000,90000,Medan
+2025-04-26,Roti Tawar,Makanan,8,7000,56000,Surabaya
+2025-04-29,Kopi Hitam,Minuman,2,13000,26000,Yogyakarta
+2025-04-11,Brownies,Makanan,1,20000,20000,Yogyakarta
+2025-04-22,Donat Keju,Makanan,4,8000,32000,Yogyakarta
+2025-04-08,Teh Tarik,Minuman,2,12000,24000,Yogyakarta
+2025-04-30,Donat Keju,Makanan,8,8000,64000,Jakarta
+2025-04-26,Brownies,Makanan,8,20000,160000,Bandung
+2025-04-01,Kopi Hitam,Minuman,2,13000,26000,Surabaya
+2025-04-05,Susu Almond,Minuman,10,18000,180000,Medan
+2025-04-19,Roti Coklat,Makanan,4,10000,40000,Bandung
+2025-04-17,Roti Tawar,Makanan,7,7000,49000,Medan
+2025-04-09,Kopi Hitam,Minuman,7,13000,91000,Medan
+2025-04-12,Susu Almond,Minuman,5,18000,90000,Surabaya
+2025-04-15,Brownies,Makanan,7,20000,140000,Bandung
+2025-04-03,Susu Almond,Minuman,5,18000,90000,Bandung
+2025-04-13,Teh Tarik,Minuman,3,12000,36000,Surabaya
+2025-04-24,Brownies,Makanan,4,20000,80000,Yogyakarta
+2025-04-05,Teh Tarik,Minuman,5,12000,60000,Bandung
+2025-04-11,Kopi Hitam,Minuman,6,13000,78000,Jakarta
+2025-04-01,Teh Tarik,Minuman,2,12000,24000,Bandung
+2025-04-29,Susu Almond,Minuman,9,18000,162000,Yogyakarta
+2025-04-25,Donat Keju,Makanan,5,8000,40000,Jakarta
+2025-04-04,Kopi Susu,Minuman,2,15000,30000,Yogyakarta
+2025-04-12,Donat Keju,Makanan,6,8000,48000,Yogyakarta
+2025-04-20,Kopi Hitam,Minuman,3,13000,39000,Bandung
+2025-04-04,Roti Tawar,Makanan,2,7000,14000,Medan
+2025-04-14,Susu Almond,Minuman,9,18000,162000,Yogyakarta
+2025-04-21,Donat Keju,Makanan,6,8000,48000,Bandung
+2025-04-29,Susu Almond,Minuman,3,18000,54000,Jakarta
+2025-04-20,Donat Keju,Makanan,9,8000,72000,Surabaya
+2025-04-18,Roti Tawar,Makanan,8,7000,56000,Bandung
+2025-04-19,Teh Tarik,Minuman,7,12000,84000,Bandung
+2025-04-06,Roti Tawar,Makanan,8,7000,56000,Yogyakarta
+2025-04-28,Brownies,Makanan,10,20000,200000,Surabaya
+2025-04-21,Roti Tawar,Makanan,6,7000,42000,Jakarta
+2025-04-25,Roti Tawar,Makanan,2,7000,14000,Yogyakarta
+2025-04-06,Roti Tawar,Makanan,9,7000,63000,Bandung
+2025-04-01,Brownies,Makanan,6,20000,120000,Yogyakarta
+2025-04-08,Susu Almond,Minuman,4,18000,72000,Bandung
+2025-04-18,Donat Keju,Makanan,4,8000,32000,Surabaya
+2025-04-12,Kopi Susu,Minuman,8,15000,120000,Yogyakarta
+2025-04-15,Teh Tarik,Minuman,5,12000,60000,Medan
+2025-04-23,Kopi Hitam,Minuman,2,13000,26000,Yogyakarta
+2025-04-09,Brownies,Makanan,10,20000,200000,Bandung
+2025-04-20,Roti Tawar,Makanan,7,7000,49000,Jakarta
+2025-04-30,Teh Tarik,Minuman,8,12000,96000,Surabaya
+2025-04-04,Roti Tawar,Makanan,4,7000,28000,Surabaya
+2025-04-25,Teh Tarik,Minuman,1,12000,12000,Bandung
+2025-04-26,Susu Almond,Minuman,6,18000,108000,Jakarta
+2025-04-16,Brownies,Makanan,1,20000,20000,Yogyakarta
+2025-04-27,Roti Coklat,Makanan,9,10000,90000,Yogyakarta
+2025-04-13,Roti Coklat,Makanan,3,10000,30000,Yogyakarta
+2025-04-12,Susu Almond,Minuman,9,18000,162000,Jakarta
+2025-04-13,Roti Tawar,Makanan,5,7000,35000,Bandung
+2025-04-10,Kopi Hitam,Minuman,1,13000,13000,Medan
+2025-04-17,Susu Almond,Minuman,3,18000,54000,Bandung
+2025-04-25,Roti Coklat,Makanan,3,10000,30000,Yogyakarta
+2025-04-20,Kopi Susu,Minuman,4,15000,60000,Medan
+2025-04-24,Donat Keju,Makanan,1,8000,8000,Jakarta
+2025-04-25,Brownies,Makanan,3,20000,60000,Yogyakarta
+2025-04-23,Susu Almond,Minuman,2,18000,36000,Surabaya
+2025-04-17,Susu Almond,Minuman,8,18000,144000,Yogyakarta
+2025-04-16,Kopi Susu,Minuman,9,15000,135000,Jakarta
+2025-04-01,Susu Almond,Minuman,8,18000,144000,Surabaya
+2025-04-05,Roti Tawar,Makanan,6,7000,42000,Bandung
+2025-04-13,Teh Tarik,Minuman,4,12000,48000,Bandung
+2025-04-06,Kopi Hitam,Minuman,4,13000,52000,Yogyakarta
+2025-04-22,Kopi Hitam,Minuman,8,13000,104000,Medan
+2025-04-11,Brownies,Makanan,9,20000,180000,Medan
+2025-04-18,Susu Almond,Minuman,5,18000,90000,Surabaya
+2025-04-30,Teh Tarik,Minuman,5,12000,60000,Surabaya
+2025-04-27,Teh Tarik,Minuman,3,12000,36000,Surabaya
+2025-04-04,Roti Coklat,Makanan,9,10000,90000,Yogyakarta
+2025-04-16,Roti Coklat,Makanan,2,10000,20000,Surabaya
+2025-04-05,Susu Almond,Minuman,6,18000,108000,Bandung
+2025-04-11,Brownies,Makanan,8,20000,160000,Jakarta
+2025-04-15,Kopi Hitam,Minuman,5,13000,65000,Yogyakarta
+2025-04-03,Donat Keju,Makanan,10,8000,80000,Surabaya
+2025-04-22,Kopi Hitam,Minuman,6,13000,78000,Jakarta
+2025-04-23,Brownies,Makanan,1,20000,20000,Surabaya
+2025-04-26,Teh Tarik,Minuman,6,12000,72000,Medan
+2025-04-20,Kopi Susu,Minuman,2,15000,30000,Jakarta
+2025-04-13,Kopi Susu,Minuman,6,15000,90000,Yogyakarta
+2025-04-26,Kopi Hitam,Minuman,8,13000,104000,Bandung
+2025-04-18,Roti Tawar,Makanan,3,7000,21000,Bandung
+2025-04-23,Kopi Susu,Minuman,8,15000,120000,Surabaya
+2025-04-26,Teh Tarik,Minuman,1,12000,12000,Medan
+2025-04-02,Roti Tawar,Makanan,1,7000,7000,Bandung
+2025-04-23,Teh Tarik,Minuman,8,12000,96000,Jakarta
+2025-04-20,Donat Keju,Makanan,10,8000,80000,Surabaya
+2025-04-10,Kopi Susu,Minuman,6,15000,90000,Medan
+2025-04-29,Kopi Hitam,Minuman,9,13000,117000,Surabaya
+2025-04-19,Kopi Hitam,Minuman,5,13000,65000,Surabaya
+2025-04-17,Roti Coklat,Makanan,9,10000,90000,Surabaya
